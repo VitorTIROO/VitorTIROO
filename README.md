@@ -2,7 +2,6 @@
 
 # Welcome!
 
-  ![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorTIROO&theme=dark&show_icons=true) 
   ![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorTIROO&theme=dark&show_icons=true) 
   
 :computer: I'm Back-End Developer!
