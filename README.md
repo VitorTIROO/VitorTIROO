@@ -16,6 +16,13 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/VitorTIROO)](https://github.com/VitorTIROO)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitor-santos-4105b4a1)](https://www.linkedin.com/in/vitor-santos-4105b4a1) [<img src="https://www.sankhya.com.br/wp-content/uploads/2021/02/Sankhya_site_favicon_32x32.png" alt="Comunidade Sankhya" width="34">](https://comunidade.sankhya.com.br/u/vitor_santos)
 
+</p>
+ 
+ <p align="center"> 
+  <b>Visitor count</b><br>
+  <img src="https://profile-counter.glitch.me/Colombo97/count.svg" />
+</p>
+
 - Thanks for visiting.
 
 - Enjoy it!! o/
