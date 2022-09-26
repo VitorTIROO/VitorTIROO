@@ -20,7 +20,7 @@
  
  <p align="center"> 
   <b>Visitor count</b><br>
-  <img src="https://profile-counter.glitch.me/Colombo97/count.svg" />
+  <img src="https://profile-counter.glitch.me/VitorTIROO/count.svg" />
 </p>
 
 - Thanks for visiting.
