@@ -2,7 +2,6 @@
 
 # Welcome!
 
-  ![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorTIROO&theme=dark&show_icons=true) 
   
 :computer: I'm Back-End Developer!
 
